@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "eslint": "^5.16.0",
     "gravatar-url": "^2.0.0",
